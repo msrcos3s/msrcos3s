@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msrcos3s
 - 👀 I’m interested in Biostatistics and Data Science
-- 🌱 I’m currently learning Data Science at the JH University by Coursera
+- 🌱 I’m currently completing a master's degree in Biostatistics at the UEM
 - 💞️ I’m looking to collaborate on Clinical Trials
 - 📫 marcos.medeiros@alumni.usp.br
 
